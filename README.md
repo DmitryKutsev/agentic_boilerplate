@@ -1,4 +1,4 @@
-# learn_langgraph
+# Agentic boilerplate
 
 This repo is created to help set up the environment for the Hackathone about agentic frameworks and in particular the LangGraph framework.
 
